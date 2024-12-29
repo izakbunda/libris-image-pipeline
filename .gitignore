@@ -1,4 +1,5 @@
 /venv/
+/myenv/
 /cropped_spines/
 __pycache__/
 .DS_Store

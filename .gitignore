@@ -1,0 +1,8 @@
+/venv/
+/cropped_spines/
+__pycache__/
+.DS_Store
+*.pyc
+*.pyo
+*.jpg
+.env
